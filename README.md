@@ -1,7 +1,7 @@
 
 Nesne Tabanlı Programlama proje tanıtımı:		
 ARDA CANBAZ
-No : 243405103
+Numara : 243405103
 
     
   Eclipse ve Heidisql kullanarak Canbazlar Parekende Satış adlı bir parekende satış 
